@@ -1,7 +1,10 @@
-### Info Project 2023
+### Pro-Sim, 2023
 ## Owned and made by Andrei P. and Aurélien J.
 
-Made for the 2023, 1 week informatics project required for the 3rd year of Maturité.
+Made for the 2023, 1 week informatics project required for a school project.
+
+Uses pygame library & logic.
 
 ### How it works:
+*Install required libraries from the `requirements.txt` file.* <br>
 *Execute the `main` file*.
