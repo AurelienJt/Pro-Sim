@@ -1,7 +1,7 @@
 ### Pro-Sim, 2023
 ## Owned and made by Andrei P. and Aurélien J.
 
-Made for the 2023, 1 week informatics project required for a school project.
+Made for the 2023, 1 week informatics project required for school.
 
 Uses pygame library & logic.
 
